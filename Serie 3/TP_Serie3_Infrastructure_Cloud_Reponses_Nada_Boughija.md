@@ -6,7 +6,7 @@
 **Enseignant :** Pr. A. ABASSI  
 **Durée :** TD 30 min · TP 80 min · Bilan 10 min
 
-> **Consigne :** Complétez ce document Markdown directement. Ajoutez les commandes exécutées, les résultats observés et des captures d’écran lorsque cela est demandé. Remplacez les zones `À compléter` par vos réponses. Ne mettez jamais de vrais mots de passe ou de secrets dans un dépôt Git public.
+> **Consigne :** Complétez ce document Markdown directement. Ajoutez les commandes exécutées, les résultats observés et des captures d’écran lorsque cela est demandé. Remplacez les zones `À compléter` par vos réponses. Ne mettez jamais de vrais mots de passe ou de secrets dans un dépôt Git public. 
 
 ## Informations de l’étudiant
 

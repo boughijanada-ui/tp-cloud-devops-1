@@ -18,7 +18,7 @@
 > * Démarrer, lister, explorer, arrêter et supprimer des conteneurs ;
 > * Mesurer expérimentalement la légèreté des conteneurs.
 
----
+--- 
 
 ## 1. Partie TD (40 min)
 

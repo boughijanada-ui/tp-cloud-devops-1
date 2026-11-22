@@ -9,7 +9,7 @@
 ### 👤 Informations du Binôme
 
 * **Étudiant 1 :** [BOUGHIJA, NADA, E138193253]
-* **Étudiant 2 :** [JEMI, MERIEM, E132132754]
+* **Étudiant 2 :** [JEMI, MERIEM, E132132754] 
 * **Groupe :** [IRISTI]
 * **Lien du dépôt GitHub :** [URL du dépôt monorepo]
 

@@ -1,7 +1,7 @@
 # Compte Rendu — Série 01
 ## Virtualisation & Cloud Computing
 
-### Partie B — TP : Mesurer l'élasticité
+### Partie B — TP : Mesurer l'élasticité 
 
 ## Étape 1 : Inventaire des ressources
 
